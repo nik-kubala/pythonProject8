@@ -75,3 +75,4 @@ def shreder(n):
 
 
 #2.
+q
